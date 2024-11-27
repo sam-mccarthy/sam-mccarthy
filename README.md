@@ -5,7 +5,7 @@ Feel free to reach me at samuelm4@umbc.edu!
   
 Currently working on Journey.
 
-Projects (currently on hold while homelab is reworked):
+Projects:
   * cocoa: a general purpose discord bot, written in Rust using MongoDB - proof of concept, hosted on homelab using ghcr.io and Docker
   * journey: a daily journaling app built for self-hosters - WIP
   * cumber: an MNIST database AI written in C, with no external libraries - WIP
