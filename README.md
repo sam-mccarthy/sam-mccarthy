@@ -3,7 +3,7 @@ I'm Sam, a software engineer studying Computer Science (Minor in Mathematics) at
 Open to any and all opportunities for growth and experience  
 Feel free to reach me at samuelm4@umbc.edu!
   
-Currently working on Journey.
+Currently working on Journey (journalling), a CHIP-8 emulator, and some fun fractal stuff.
 
 Projects:
   * cocoa: a general purpose discord bot, written in Rust using MongoDB - proof of concept, hosted on homelab using ghcr.io and Docker
