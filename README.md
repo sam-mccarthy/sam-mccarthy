@@ -1,28 +1,13 @@
-## Hello!
-I'm Sam, a software engineer studying Computer Science (Minor in Mathematics) at UMBC  
-Open to any and all opportunities for growth and experience  
-Feel free to reach me at samuelm4@umbc.edu!
-  
-Currently working on Journey (journalling), a CHIP-8 emulator, and some fun fractal stuff.
+## Hello! I'm Samuel.
+Software engineer studying Computer Science with a minor in Mathematics at UMBC.
+Grew up experimenting with the Javascript lessons on KhanAcademy.
+Feel free to reach out.
+
+Currently working on my [website](samcc.me), and finishing up some projects.
 
 Projects:
   * cocoa: a general purpose discord bot, written in Rust using MongoDB - proof of concept, hosted on homelab using ghcr.io and Docker
-  * journey: a daily journaling app built for self-hosters - WIP
+  * journey: a daily journaling app built for self-hosters - WIP, back-end working
   * cumber: an MNIST database AI written in C, with no external libraries - WIP
-  * sandal: a CUDA-accelerated fractal generator - proof of concept
+  * sandal: a CUDA-accelerated fractal generator - WIP
   * chipmu: a CHIP-8 emulator written in C++ with SDL
-
-<!--
-**sam-mccarthy/sam-mccarthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
