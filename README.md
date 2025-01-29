@@ -1,7 +1,7 @@
 ## Hello! I'm Samuel. 
 Software engineer studying Computer Science with a minor in Mathematics at UMBC.\
 Passion for software built out of a very curious childhood. Send me your fractals.\
-Feel free to reach out!\
+Feel free to reach out! You can find my LinkedIn on the sidebar of my profile.\
 \
 Currently working on my [website](https://samcc.me), and finishing up some projects.
 
