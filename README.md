@@ -11,3 +11,5 @@ Projects:
   * journey: a daily journaling app built for self-hosters - WIP, back-end working, supports encrypted log-in and sign-up, as well as journal posting
   * chipmu: a CHIP-8 emulator written in C++ with SDL - complete, but being <a href="https://github.com/sam-mccarthy/chip8-emulator">rewritten</a> to iron out QOL issues and minor bugs
   * cumber: an MNIST database AI written in C, with no external libraries - WIP
+
+If you want to find out more about me, personally, my <a href="https://samcc.me/about/">blog</a> might be a good place to start.
