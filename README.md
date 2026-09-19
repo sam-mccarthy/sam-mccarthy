@@ -1,3 +1,6 @@
+## Interests
+All things software. I'm currently interested in graphics development and audio manipulation, but have enjoyed full-stack web development and operating system development, among other things.
+
 ## Current Projects
 
 * [bms-pv](https://github.com/sam-mccarthy/bms-pv) - Preview audio generator for Be-Music Source files. About 90% complete, would like to look into edge-case imports and add QOL features
