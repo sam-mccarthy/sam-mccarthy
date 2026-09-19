@@ -1,7 +1,7 @@
 ## Current Projects
 
 * [bms-pv](https://github.com/sam-mccarthy/bms-pv) - Preview audio generator for Be-Music Source files. About 90% complete, would like to look into edge-case imports and add QOL features
-* gum (currently private) - Fast and simple C++ GUI library written with OpenGL
+* gum (currently private) - Fast and simple retained-mode GUI library written with C++ and OpenGL
 
 ## Past Projects
 
